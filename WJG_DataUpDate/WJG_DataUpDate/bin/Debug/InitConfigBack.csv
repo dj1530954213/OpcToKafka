@@ -1,0 +1,12 @@
+OPC服务器名称,Kepware.KEPServerEX.V6,,,
+组字段,test1-test2-test3-test4,,,
+轮询时间,200-2000-4000-600,,,
+组名称,点位名称,clientHandle,数据类型,统一编号
+test1,chan1.device1.a1,1,模拟量,float1
+test1,chan1.device1.a2,2,状态量,bool1
+test2,chan1.device1.a3,3,模拟量,float2
+test2,chan1.device1.a4,4,状态量,bool2
+test3,chan1.device1.a5,5,模拟量,float3
+test3,chan1.device1.a6,6,状态量,bool3
+test4,chan1.device1.a7,7,模拟量,float4
+test4,chan1.device1.a8,8,状态量,bool4
